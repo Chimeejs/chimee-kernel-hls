@@ -4,7 +4,7 @@
 [![Coverage Status](https://img.shields.io/coveralls/Chimeejs/chimee-kernel-hls/master.svg?style=flat-square)](https://coveralls.io/github/Chimeejs/chimee-kernel-hls?branch=master)
 [![npm](https://img.shields.io/npm/v/chimee-kernel-hls.svg?colorB=brightgreen&style=flat-square)](https://www.npmjs.com/package/chimee-kernel-hls)
 [![dependency Status](https://david-dm.org/Chimeejs/chimee-kernel-hls.svg)](https://david-dm.org/Chimeejs/chimee-kernel-hls)
-[![devDependency Status](https://david-dm.org/Chimeejs/chimee-kernel-hls/dev-status.svg)](https://david-dm.org/Chimeejs/chimee-kernel-hls?type=dev)
+[![devDependency Status](https://david-dm.org/Chimeejs/chimee-kernel-hls/dev-status.svg)](https://david-dm.org/Chimeejs/chimee-kernel-hls?type=dev) [![Greenkeeper badge](https://badges.greenkeeper.io/Chimeejs/chimee-kernel-hls.svg)](https://greenkeeper.io/)
 
 chimee-kernel-hls is the decoder for [chimee](https://github.com/Chimeejs/chimee). It can decode m3u8 on browser.
 
